@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/service-data.iml" filepath="$PROJECT_DIR$/.idea/service-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-demo/service-demo.iml" filepath="$PROJECT_DIR$/service-demo/service-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-operator/service-operator.iml" filepath="$PROJECT_DIR$/service-operator/service-operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-operator/service-operator-client/service-operator-client.iml" filepath="$PROJECT_DIR$/service-operator/service-operator-client/service-operator-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-operator/service-operator-flink/service-operator-flink.iml" filepath="$PROJECT_DIR$/service-operator/service-operator-flink/service-operator-flink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-operator/service-operator-spark/service-operator-spark.iml" filepath="$PROJECT_DIR$/service-operator/service-operator-spark/service-operator-spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-pro/service-pro.iml" filepath="$PROJECT_DIR$/service-pro/service-pro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-util/service-util.iml" filepath="$PROJECT_DIR$/service-util/service-util.iml" />
+    </modules>
+  </component>
+</project>
