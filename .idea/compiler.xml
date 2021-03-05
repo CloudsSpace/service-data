@@ -7,11 +7,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="service-operator-flink" />
-        <module name="service-operator-client" />
-        <module name="service-pro" />
-        <module name="service-util" />
         <module name="service-operator-spark" />
+        <module name="service-operator-kafka" />
+        <module name="service-operator-hive" />
+        <module name="service-operator-client" />
+        <module name="service-operator-mysql" />
+        <module name="service-operator-socket" />
+        <module name="service-util" />
+        <module name="service-pro-logclean" />
+        <module name="service-operator-hbase" />
         <module name="service-demo" />
+        <module name="service-pro-spider" />
+        <module name="service-pro-weblog" />
+        <module name="service-operator-hdfs" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,8 +29,17 @@
       <module name="service-operator" target="1.5" />
       <module name="service-operator-client" target="1.5" />
       <module name="service-operator-flink" target="1.5" />
+      <module name="service-operator-hbase" target="1.5" />
+      <module name="service-operator-hdfs" target="1.5" />
+      <module name="service-operator-hive" target="1.5" />
+      <module name="service-operator-kafka" target="1.8" />
+      <module name="service-operator-mysql" target="1.5" />
+      <module name="service-operator-socket" target="1.5" />
       <module name="service-operator-spark" target="1.5" />
       <module name="service-pro" target="1.5" />
+      <module name="service-pro-logclean" target="1.8" />
+      <module name="service-pro-spider" target="1.5" />
+      <module name="service-pro-weblog" target="1.5" />
       <module name="service-util" target="1.5" />
     </bytecodeTargetLevel>
   </component>

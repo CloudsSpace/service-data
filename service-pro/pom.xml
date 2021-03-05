@@ -6,7 +6,13 @@
 
     <groupId>service.com</groupId>
     <artifactId>service-pro</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>service-pro-spider</module>
+        <module>service-pro-logclean</module>
+        <module>service-pro-weblog</module>
+    </modules>
 
 
 </project>

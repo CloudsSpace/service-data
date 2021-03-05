@@ -12,6 +12,12 @@
         <module>service-operator-spark</module>
         <module>service-operator-flink</module>
         <module>service-operator-client</module>
+        <module>service-operator-hdfs</module>
+        <module>service-operator-hive</module>
+        <module>service-operator-kafka</module>
+        <module>service-operator-mysql</module>
+        <module>service-operator-socket</module>
+        <module>service-operator-hbase</module>
     </modules>
 
 
