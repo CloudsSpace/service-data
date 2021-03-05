@@ -7,23 +7,30 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="service-operator-flink" />
+        <module name="service-pro-app" />
         <module name="service-operator-spark" />
         <module name="service-operator-kafka" />
         <module name="service-operator-hive" />
         <module name="service-operator-client" />
         <module name="service-operator-mysql" />
+        <module name="service-pro-data-consolidate" />
         <module name="service-operator-socket" />
         <module name="service-util" />
         <module name="service-pro-logclean" />
         <module name="service-operator-hbase" />
+        <module name="service-pro-process" />
+        <module name="service-pro-collect" />
+        <module name="service-pro-schedule" />
         <module name="service-demo" />
+        <module name="service-pro-data-offline" />
         <module name="service-pro-spider" />
         <module name="service-pro-weblog" />
+        <module name="service-pro-data-online" />
         <module name="service-operator-hdfs" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="service-data-operator" target="1.5" />
+      <module name="service-collect" target="8" />
       <module name="service-data-pro" target="1.5" />
       <module name="service-demo" target="1.5" />
       <module name="service-operator" target="1.5" />
@@ -37,7 +44,15 @@
       <module name="service-operator-socket" target="1.5" />
       <module name="service-operator-spark" target="1.5" />
       <module name="service-pro" target="1.5" />
+      <module name="service-pro-app" target="8" />
+      <module name="service-pro-collect" target="8" />
+      <module name="service-pro-data" target="8" />
+      <module name="service-pro-data-consolidate" target="8" />
+      <module name="service-pro-data-offline" target="8" />
+      <module name="service-pro-data-online" target="8" />
       <module name="service-pro-logclean" target="1.8" />
+      <module name="service-pro-process" target="8" />
+      <module name="service-pro-schedule" target="8" />
       <module name="service-pro-spider" target="1.5" />
       <module name="service-pro-weblog" target="1.5" />
       <module name="service-util" target="1.5" />

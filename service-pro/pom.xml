@@ -12,7 +12,12 @@
         <module>service-pro-spider</module>
         <module>service-pro-logclean</module>
         <module>service-pro-weblog</module>
-    </modules>
+        <module>service-pro-collect</module>
+        <module>service-pro-process</module>
+        <module>service-pro-schedule</module>
+        <module>service-pro-app</module>
+        <module>service-pro-data</module>
+   </modules>
 
 
 </project>

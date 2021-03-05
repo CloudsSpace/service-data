@@ -15,7 +15,15 @@
       <module fileurl="file://$PROJECT_DIR$/service-operator/service-operator-socket/service-operator-socket.iml" filepath="$PROJECT_DIR$/service-operator/service-operator-socket/service-operator-socket.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-operator/service-operator-spark/service-operator-spark.iml" filepath="$PROJECT_DIR$/service-operator/service-operator-spark/service-operator-spark.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-pro/service-pro.iml" filepath="$PROJECT_DIR$/service-pro/service-pro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-pro/service-pro-app/service-pro-app.iml" filepath="$PROJECT_DIR$/service-pro/service-pro-app/service-pro-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-pro/service-pro-collect/service-pro-collect.iml" filepath="$PROJECT_DIR$/service-pro/service-pro-collect/service-pro-collect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-pro/service-pro-data/service-pro-data.iml" filepath="$PROJECT_DIR$/service-pro/service-pro-data/service-pro-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-pro/service-pro-data/service-pro-data-consolidate/service-pro-data-consolidate.iml" filepath="$PROJECT_DIR$/service-pro/service-pro-data/service-pro-data-consolidate/service-pro-data-consolidate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-pro/service-pro-data/service-pro-data-offline/service-pro-data-offline.iml" filepath="$PROJECT_DIR$/service-pro/service-pro-data/service-pro-data-offline/service-pro-data-offline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-pro/service-pro-data/service-pro-data-online/service-pro-data-online.iml" filepath="$PROJECT_DIR$/service-pro/service-pro-data/service-pro-data-online/service-pro-data-online.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-pro/service-pro-logclean/service-pro-logclean.iml" filepath="$PROJECT_DIR$/service-pro/service-pro-logclean/service-pro-logclean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-pro/service-pro-process/service-pro-process.iml" filepath="$PROJECT_DIR$/service-pro/service-pro-process/service-pro-process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-pro/service-pro-schedule/service-pro-schedule.iml" filepath="$PROJECT_DIR$/service-pro/service-pro-schedule/service-pro-schedule.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-pro/service-pro-spider/service-pro-spider.iml" filepath="$PROJECT_DIR$/service-pro/service-pro-spider/service-pro-spider.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-pro/service-pro-weblog/service-pro-weblog.iml" filepath="$PROJECT_DIR$/service-pro/service-pro-weblog/service-pro-weblog.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-util/service-util.iml" filepath="$PROJECT_DIR$/service-util/service-util.iml" />

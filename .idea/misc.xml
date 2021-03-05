@@ -12,5 +12,11 @@
         <option value="$PROJECT_DIR$/service-demo/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/service-pro/service-pro-data-offline/pom.xml" />
+      </set>
+    </option>
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
