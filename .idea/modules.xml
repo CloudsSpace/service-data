@@ -6,12 +6,16 @@
       <module fileurl="file://$PROJECT_DIR$/service-demo/service-demo.iml" filepath="$PROJECT_DIR$/service-demo/service-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-operator/service-operator.iml" filepath="$PROJECT_DIR$/service-operator/service-operator.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-operator/service-operator-client/service-operator-client.iml" filepath="$PROJECT_DIR$/service-operator/service-operator-client/service-operator-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-operator/service-operator-common/service-operator-common.iml" filepath="$PROJECT_DIR$/service-operator/service-operator-common/service-operator-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-operator/service-operator-flink/service-operator-flink.iml" filepath="$PROJECT_DIR$/service-operator/service-operator-flink/service-operator-flink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-operator/service-operator-hadoop/service-operator-hadoop.iml" filepath="$PROJECT_DIR$/service-operator/service-operator-hadoop/service-operator-hadoop.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-operator/service-operator-hbase/service-operator-hbase.iml" filepath="$PROJECT_DIR$/service-operator/service-operator-hbase/service-operator-hbase.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-operator/service-operator-hdfs/service-operator-hdfs.iml" filepath="$PROJECT_DIR$/service-operator/service-operator-hdfs/service-operator-hdfs.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-operator/service-operator-hive/service-operator-hive.iml" filepath="$PROJECT_DIR$/service-operator/service-operator-hive/service-operator-hive.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-operator/service-operator-kafka/service-operator-kafka.iml" filepath="$PROJECT_DIR$/service-operator/service-operator-kafka/service-operator-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-operator/service-operator-log/service-operator-log.iml" filepath="$PROJECT_DIR$/service-operator/service-operator-log/service-operator-log.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-operator/service-operator-mysql/service-operator-mysql.iml" filepath="$PROJECT_DIR$/service-operator/service-operator-mysql/service-operator-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-operator/service-operator-sdk/service-operator-sdk.iml" filepath="$PROJECT_DIR$/service-operator/service-operator-sdk/service-operator-sdk.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-operator/service-operator-socket/service-operator-socket.iml" filepath="$PROJECT_DIR$/service-operator/service-operator-socket/service-operator-socket.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-operator/service-operator-spark/service-operator-spark.iml" filepath="$PROJECT_DIR$/service-operator/service-operator-spark/service-operator-spark.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-pro/service-pro.iml" filepath="$PROJECT_DIR$/service-pro/service-pro.iml" />

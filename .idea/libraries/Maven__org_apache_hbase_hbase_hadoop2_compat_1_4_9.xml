@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.apache.hbase:hbase-hadoop2-compat:1.4.9">
     <CLASSES>
-      <root url="jar://D:/share/apache-maven-3.5.4-bin/m2/repository/org/apache/hbase/hbase-hadoop2-compat/1.4.9/hbase-hadoop2-compat-1.4.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-hadoop2-compat/1.4.9/hbase-hadoop2-compat-1.4.9.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://D:/share/apache-maven-3.5.4-bin/m2/repository/org/apache/hbase/hbase-hadoop2-compat/1.4.9/hbase-hadoop2-compat-1.4.9-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-hadoop2-compat/1.4.9/hbase-hadoop2-compat-1.4.9-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://D:/share/apache-maven-3.5.4-bin/m2/repository/org/apache/hbase/hbase-hadoop2-compat/1.4.9/hbase-hadoop2-compat-1.4.9-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-hadoop2-compat/1.4.9/hbase-hadoop2-compat-1.4.9-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -6,22 +6,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="service-operator-mysql" />
+        <module name="service-pro-data-consolidate" />
+        <module name="service-pro-process" />
+        <module name="service-operator-hadoop" />
+        <module name="service-demo" />
+        <module name="service-operator-common" />
         <module name="service-operator-flink" />
         <module name="service-pro-app" />
         <module name="service-operator-spark" />
         <module name="service-operator-kafka" />
         <module name="service-operator-hive" />
         <module name="service-operator-client" />
-        <module name="service-operator-mysql" />
-        <module name="service-pro-data-consolidate" />
         <module name="service-operator-socket" />
+        <module name="service-operator-log" />
         <module name="service-util" />
         <module name="service-pro-logclean" />
         <module name="service-operator-hbase" />
-        <module name="service-pro-process" />
-        <module name="service-pro-collect" />
+        <module name="service-operator-sdk" />
         <module name="service-pro-schedule" />
-        <module name="service-demo" />
         <module name="service-pro-data-offline" />
         <module name="service-pro-spider" />
         <module name="service-pro-weblog" />
@@ -33,19 +36,24 @@
       <module name="service-collect" target="8" />
       <module name="service-data-pro" target="1.5" />
       <module name="service-demo" target="1.5" />
-      <module name="service-operator" target="1.5" />
-      <module name="service-operator-client" target="1.5" />
-      <module name="service-operator-flink" target="1.5" />
-      <module name="service-operator-hbase" target="1.5" />
-      <module name="service-operator-hdfs" target="1.5" />
-      <module name="service-operator-hive" target="1.5" />
+      <module name="service-operator" target="1.7" />
+      <module name="service-operator-client" target="1.7" />
+      <module name="service-operator-common" target="1.7" />
+      <module name="service-operator-flink" target="1.7" />
+      <module name="service-operator-hadoop" target="1.7" />
+      <module name="service-operator-hbase" target="1.7" />
+      <module name="service-operator-hdfs" target="1.7" />
+      <module name="service-operator-hive" target="1.7" />
       <module name="service-operator-kafka" target="1.8" />
-      <module name="service-operator-mysql" target="1.5" />
-      <module name="service-operator-socket" target="1.5" />
-      <module name="service-operator-spark" target="1.5" />
+      <module name="service-operator-log" target="1.7" />
+      <module name="service-operator-mysql" target="1.7" />
+      <module name="service-operator-sdk" target="1.7" />
+      <module name="service-operator-socket" target="1.7" />
+      <module name="service-operator-spark" target="1.7" />
       <module name="service-pro" target="1.5" />
       <module name="service-pro-app" target="8" />
       <module name="service-pro-collect" target="8" />
+      <module name="service-pro-collect-burepoint" target="8" />
       <module name="service-pro-data" target="8" />
       <module name="service-pro-data-consolidate" target="8" />
       <module name="service-pro-data-offline" target="8" />
