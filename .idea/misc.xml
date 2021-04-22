@@ -11,6 +11,8 @@
         <option value="$PROJECT_DIR$/service-util/pom.xml" />
         <option value="$PROJECT_DIR$/service-demo/pom.xml" />
         <option value="$PROJECT_DIR$/service-operator/service-operator-hadoop/pom.xml" />
+        <option value="$PROJECT_DIR$/service-pro/service-pro-collect/bured/pom.xml" />
+        <option value="$PROJECT_DIR$/service-demo/serice-demo-springboot/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
