@@ -2,7 +2,6 @@ package com.duiba.util
 
 
 import org.apache.spark.sql.SparkSession
-
 import scala.collection.mutable
 
 trait SparkSqlOperator extends Operator {

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/service-demo/serice-demo-springboot/serice-demo.iml" filepath="$PROJECT_DIR$/service-demo/serice-demo-springboot/serice-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-demo/serice-demo-springboot/serice-demo-springboot.iml" filepath="$PROJECT_DIR$/service-demo/serice-demo-springboot/serice-demo-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-demo/service-calculate/service-calculate.iml" filepath="$PROJECT_DIR$/service-demo/service-calculate/service-calculate.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/service-data.iml" filepath="$PROJECT_DIR$/.idea/service-data.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-demo/service-demo.iml" filepath="$PROJECT_DIR$/service-demo/service-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-demo/service-demo-demo/service-demo-demo.iml" filepath="$PROJECT_DIR$/service-demo/service-demo-demo/service-demo-demo.iml" />
@@ -22,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/service-operator/service-operator-spark/service-operator-spark.iml" filepath="$PROJECT_DIR$/service-operator/service-operator-spark/service-operator-spark.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-pro/service-pro.iml" filepath="$PROJECT_DIR$/service-pro/service-pro.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-pro/service-pro-app/service-pro-app.iml" filepath="$PROJECT_DIR$/service-pro/service-pro-app/service-pro-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-pro/service-pro-app/service-pro-application.iml" filepath="$PROJECT_DIR$/service-pro/service-pro-app/service-pro-application.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-pro/service-pro-collect/service-pro-collect.iml" filepath="$PROJECT_DIR$/service-pro/service-pro-collect/service-pro-collect.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-pro/service-pro-collect/service-pro-collect-events/service-pro-collect-events.iml" filepath="$PROJECT_DIR$/service-pro/service-pro-collect/service-pro-collect-events/service-pro-collect-events.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-pro/service-pro-collect/service-pro-collect-logs/service-pro-collect-logs.iml" filepath="$PROJECT_DIR$/service-pro/service-pro-collect/service-pro-collect-logs/service-pro-collect-logs.iml" />

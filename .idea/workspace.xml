@@ -5,7 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b338b80-212f-45cd-88f2-761b1ba1f979" name="Default Changelist" comment="测试提交">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/976022b3-d66b-4fb9-ad10-a362b8683f12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/976022b3-d66b-4fb9-ad10-a362b8683f12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/976022b3-d66b-4fb9-ad10-a362b8683f12/storage_v2/_src_/schema/sakila.oXLGyQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/976022b3-d66b-4fb9-ad10-a362b8683f12/storage_v2/_src_/schema/sakila.oXLGyQ.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/976022b3-d66b-4fb9-ad10-a362b8683f12/storage_v2/_src_/schema/sys.zb4BAA.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/976022b3-d66b-4fb9-ad10-a362b8683f12/storage_v2/_src_/schema/sys.zb4BAA.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-demo/service-calculate/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-demo/service-calculate/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-demo/service-calculate/src/main/java/com/duiba/util/DwUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-demo/service-calculate/src/main/java/com/duiba/util/DwUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-demo/service-calculate/src/main/java/com/duiba/util/JDBCOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-demo/service-calculate/src/main/java/com/duiba/util/JDBCOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-demo/service-calculate/src/main/scala/com/duiba/task/DwCalculate.scala" beforeDir="false" afterPath="$PROJECT_DIR$/service-demo/service-calculate/src/main/scala/com/duiba/task/DwCalculate.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-demo/service-calculate/src/main/scala/com/duiba/util/SparkSqlOperator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/service-demo/service-calculate/src/main/scala/com/duiba/util/SparkSqlOperator.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-pro/service-pro-data/service-pro-data.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service-pro/service-pro-data/service-pro-data.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-pro/service-pro-logclean/service-pro-logclean.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service-pro/service-pro-logclean/service-pro-logclean.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-pro/service-pro-schedule/service-pro-schedule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service-pro/service-pro-schedule/service-pro-schedule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-pro/service-pro-spider/service-pro-spider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service-pro/service-pro-spider/service-pro-spider.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-pro/service-pro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service-pro/service-pro.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +41,9 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -139,22 +163,22 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot-plus" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/service-demo/service-calculate/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/service-demo/service-calculate/src/main/resources" />
       <recent name="D:\workspace\idea\service-data\service-operator\src\main" />
       <recent name="D:\workspace\idea\service-data\service-pro\service-pro-collect\service-pro-collect-events\src\main" />
       <recent name="D:\workspace\idea\service-data\service-pro\service-pro-collect\src\main" />
       <recent name="D:\workspace\idea\service-data\service-pro\service-pro-collect\service-pro-collect-burepoint\src\main\java" />
-      <recent name="D:\workspace\idea\service-data\service-pro\service-pro-data\service-pro-data-offline\src\main\scala" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.util" />
@@ -165,13 +189,13 @@
       <recent name="com.task" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FixedThreadPoolTest">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Demo" />
-      <module name="service-demo-demo" />
+  <component name="RunManager" selected="Application.DwCalculate">
+    <configuration name="DwCalculate" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.duiba.task.DwCalculate" />
+      <module name="service-calculate" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.*" />
+          <option name="PATTERN" value="com.duiba.task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoTest" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.DemoTest" />
-      <module name="service-demo-demo" />
+    <configuration name="DwUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.duiba.util.DwUtil" />
+      <module name="service-calculate" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.*" />
+          <option name="PATTERN" value="com.duiba.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,12 +229,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Salary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Salary" />
-      <module name="service-demo-demo" />
+    <configuration name="JDBCOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.duiba.util.JDBCOperator" />
+      <module name="service-calculate" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.*" />
+          <option name="PATTERN" value="com.duiba.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,12 +242,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleThreadExecutorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadPool.SingleThreadExecutorTest" />
-      <module name="service-demo-demo" />
+    <configuration name="PropertiesUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.duiba.util.PropertiesUtil" />
+      <module name="service-calculate" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThreadPool.*" />
+          <option name="PATTERN" value="com.duiba.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,6 +268,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StartApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="serice-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.StartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="serice-demo-springboot" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.StartApplication" />
@@ -253,11 +284,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DwCalculate" />
+        <item itemvalue="Application.DwUtil" />
+        <item itemvalue="Application.JDBCOperator" />
+        <item itemvalue="Application.PropertiesUtil" />
         <item itemvalue="Application.FixedThreadPoolTest" />
-        <item itemvalue="Application.Salary" />
-        <item itemvalue="Application.DemoTest" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.SingleThreadExecutorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -313,6 +344,10 @@
       <workItem from="1619100821429" duration="451000" />
       <workItem from="1619101311828" duration="1644000" />
       <workItem from="1619103172068" duration="1137000" />
+      <workItem from="1619144431509" duration="1186000" />
+      <workItem from="1619317883921" duration="623000" />
+      <workItem from="1619318616201" duration="14897000" />
+      <workItem from="1619406000420" duration="30327000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1612780035348</created>
@@ -349,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619103406883</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="测试提交">
+      <created>1619440436881</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619440436881</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -396,6 +438,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试提交" />
     <option name="LAST_COMMIT_MESSAGE" value="测试提交" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

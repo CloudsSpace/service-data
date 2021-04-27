@@ -151,6 +151,7 @@ public class JDBCOperator implements Serializable {
         return builder.toString();
     }
 
+
     public Properties getProperties() {
         return properties;
     }

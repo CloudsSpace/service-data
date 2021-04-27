@@ -4,7 +4,7 @@
     <data-source source="LOCAL" name="local-mysql" uuid="976022b3-d66b-4fb9-ad10-a362b8683f12">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
       <driver-properties>
@@ -14,7 +14,7 @@
     <data-source source="LOCAL" name="cluster-mysql" uuid="30ce98a6-6168-4efa-b79d-c23ecdad635d">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://192.168.247.10:3306</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
@@ -28,8 +28,15 @@
     <data-source source="LOCAL" name="cluster-hive" uuid="9cac072b-e8ec-430a-97e5-2ca18d99f8f9">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://192.168.247.10:3306</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="bigdata-mysql" uuid="9d425d9b-926a-4313-a2ec-7d53be1dff00">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://rm-bp1ddkg19u8hgv5aj.mysql.rds.aliyuncs.com:3306</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>

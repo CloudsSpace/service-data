@@ -21,7 +21,6 @@ public class DwUtil extends JDBCOperator {
     /**
      * 任务获取
      *
-     * @param dw
      * @param id
      * @return
      * @throws SQLException
@@ -29,10 +28,10 @@ public class DwUtil extends JDBCOperator {
     public ArrayList<ZeusInfo> getInfo( String id) throws SQLException {
         ArrayList<ZeusInfo> info = new ArrayList<>();
         String sql;
-        if (id != null) {
+        if (id == "all") {
             sql = "select id,name,script from demo.zeus_job where  id in (" + id + ")";
         } else {
-            sql = "";
+            sql = "select id,name,script from demo.zeus_job";
         }
         PreparedStatement statement = conn.prepareStatement(sql);
         ResultSet resultSet = statement.executeQuery();
@@ -43,10 +42,5 @@ public class DwUtil extends JDBCOperator {
         }
         statement.close();
         return info;
-    }
-
-    public static void main(String[] args) throws SQLException {
-        ArrayList<ZeusInfo> info = new DwUtil().getInfo("1");
-        System.out.println(info);
     }
 }

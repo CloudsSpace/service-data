@@ -8,9 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="service-operator-mysql" />
         <module name="service-pro-process" />
+        <module name="service-calculate" />
         <module name="service-operator-hadoop" />
-        <module name="service-operator-common" />
+        <module name="serice-demo" />
         <module name="serice-demo-springboot" />
+        <module name="service-operator-common" />
         <module name="service-pro-collect-events" />
         <module name="service-pro-collect-logs" />
         <module name="service-operator-flink" />
@@ -29,6 +31,7 @@
         <module name="service-pro-schedule" />
         <module name="service-pro-data-offline" />
         <module name="service-pro-spider" />
+        <module name="service-pro-application" />
         <module name="service-pro-weblog" />
         <module name="service-pro-data-online" />
         <module name="service-operator-hdfs" />
@@ -36,7 +39,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="serice-demo" target="1.8" />
       <module name="serice-demo-springboot" target="1.8" />
+      <module name="service-calculate" target="8" />
       <module name="service-collect" target="8" />
       <module name="service-data-pro" target="1.5" />
       <module name="service-demo" target="1.5" />
@@ -57,6 +62,7 @@
       <module name="service-operator-spark" target="1.7" />
       <module name="service-pro" target="1.5" />
       <module name="service-pro-app" target="8" />
+      <module name="service-pro-application" target="8" />
       <module name="service-pro-collect" target="8" />
       <module name="service-pro-collect-burepoint" target="1.8" />
       <module name="service-pro-collect-events" target="8" />
@@ -75,6 +81,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="serice-demo" options="-parameters" />
       <module name="serice-demo-springboot" options="-parameters" />
       <module name="service-pro-collect-burepoint" options="-parameters" />
     </option>
