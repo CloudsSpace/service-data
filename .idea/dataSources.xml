@@ -39,5 +39,19 @@
       <jdbc-url>jdbc:mysql://rm-bp1ddkg19u8hgv5aj.mysql.rds.aliyuncs.com:3306</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="bigdata-hive" uuid="5f4cc0af-4a00-449e-9b56-bfb7bf49a05c">
+      <driver-ref>hive</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.apache.hive.jdbc.HiveDriver</jdbc-driver>
+      <jdbc-url>jdbc:hive2://10.50.10.15:10000</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="online" uuid="70d34ec4-0935-4171-98fe-9e245da154b4">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://gm-rm-bp14l3h420a49ch7joo-uat.mysql.rds.aliyuncs.com:3306/duiba_data</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>

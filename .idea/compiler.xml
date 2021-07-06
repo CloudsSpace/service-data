@@ -29,9 +29,9 @@
         <module name="service-operator-hbase" />
         <module name="service-operator-sdk" />
         <module name="service-pro-schedule" />
+        <module name="service-obscloud" />
         <module name="service-pro-data-offline" />
         <module name="service-pro-spider" />
-        <module name="service-pro-application" />
         <module name="service-pro-weblog" />
         <module name="service-pro-data-online" />
         <module name="service-operator-hdfs" />
@@ -46,6 +46,7 @@
       <module name="service-data-pro" target="1.5" />
       <module name="service-demo" target="1.5" />
       <module name="service-demo-demo" target="8" />
+      <module name="service-obscloud" target="8" />
       <module name="service-operator" target="1.7" />
       <module name="service-operator-client" target="1.7" />
       <module name="service-operator-common" target="1.7" />
@@ -81,8 +82,11 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
       <module name="serice-demo" options="-parameters" />
       <module name="serice-demo-springboot" options="-parameters" />
+      <module name="service-calculate" options="" />
+      <module name="service-obscloud" options="" />
       <module name="service-pro-collect-burepoint" options="-parameters" />
     </option>
   </component>

@@ -11,6 +11,8 @@
     <modules>
         <module>service-demo-demo</module>
         <module>service-calculate</module>
+        <module>service-demo-springboot</module>
+        <module>service-obscloud</module>
     </modules>
 
 

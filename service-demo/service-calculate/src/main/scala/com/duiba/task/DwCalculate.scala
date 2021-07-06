@@ -18,20 +18,25 @@ object DwCalculate extends SparkSqlOperator {
   private var jobSubmitExecutors: ExecutorService = _
   private var spark: SparkSession = _
   private var jobParams: JobParams = _
-  private var configuration: Configuration = _
-  private var fileSystem: FileSystem = _
-  private var hdfsUrl = "hdfs://bigdata-2:8020"
   private var DwUtil: DwUtil = _
   private val executors = 5
 
   def main(args: Array[String]): Unit = {
 
-    jobParams = JobParams(if (args.length >= 1) args(0) else null, if (args.length >= 2) args(1) else null)
-    initialize
-    val dw = DwUtil.getInfo(jobParams.jobId).asScala
-    val jobs = dw.map(line => line.getScript.replaceAll("\\$\\{date\\}", jobParams.jobDate)).toArray
-    customCalculate(jobs)
-    close
+//    jobParams = JobParams(if (args.length >= 1) args(0) else null, if (args.length >= 2) args(1) else null)
+//    initialize
+//    val dw = DwUtil.getInfo(jobParams.jobId).asScala
+//    val jobs = dw.map(line => line.getScript.replaceAll("\\$\\{date\\}", jobParams.jobDate)).toArray
+//    customCalculate(jobs)
+//    close
+
+//    initialize
+//    val dw = DwUtil.getInfo("").asScala
+//    val jobs = dw.map(line => line.getScript.replaceAll("\\$\\{date\\}", "2021-04-25")).toArray
+//    customCalculate(jobs)
+//    for (job<-jobs){
+//      println(job)
+//    }
 
   }
 
@@ -79,6 +84,8 @@ object DwCalculate extends SparkSqlOperator {
     spark = SparkSession.builder()
       .appName("DwCalculate")
       .master("local[*]")
+      .config("hive.metastore.uris", "thrift://10.50.10.16:9083")
+      .config("spark.sql.warehouse.dir", "hdfs://10.50.10.16:9000/user/hive/warehouse")
       .enableHiveSupport()
       .getOrCreate()
     DwUtil = new DwUtil
@@ -88,7 +95,6 @@ object DwCalculate extends SparkSqlOperator {
   override def close: Unit = {
     jdbcOperator.close()
     spark.close()
-
   }
 
 }

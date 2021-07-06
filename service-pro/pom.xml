@@ -15,7 +15,6 @@
         <module>service-pro-collect</module>
         <module>service-pro-process</module>
         <module>service-pro-schedule</module>
-        <module>service-pro-app</module>
         <module>service-pro-data</module>
     </modules>
 

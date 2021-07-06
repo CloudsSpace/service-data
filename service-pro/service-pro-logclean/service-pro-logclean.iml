@@ -178,13 +178,11 @@
     <orderEntry type="library" name="Maven: org.scala-lang.modules:scala-xml_2.11:1.0.5" level="project" />
     <orderEntry type="library" name="Maven: org.scala-lang.modules:scala-parser-combinators_2.11:1.0.4" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-streaming-scala_2.11:1.12.0" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.flink:flink-hbase_2.11:1.12.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-connector-elasticsearch6_2.11:1.12.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-connector-elasticsearch-base_2.11:1.12.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-runtime-web_2.11:1.12.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-shaded-netty:4.1.49.Final-12.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-shaded-jackson:2.10.1-12.0" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.flink:flink-connector-filesystem_2.11:1.12.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-table-api-java-bridge_2.11:1.12.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-table-api-java:1.12.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-table-api-scala-bridge_2.11:1.12.0" level="project" />
@@ -198,7 +196,6 @@
     <orderEntry type="library" name="Maven: org.apache.flink:flink-table-common:1.12.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-connector-files:1.12.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-connector-base:1.12.0" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.flink:flink-jdbc_2.11:1.12.0" level="project" />
     <orderEntry type="module" module-name="service-operator-spark" />
     <orderEntry type="library" name="Maven: org.apache.spark:spark-streaming_2.11:2.4.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.spark:spark-sql_2.11:2.4.0" level="project" />

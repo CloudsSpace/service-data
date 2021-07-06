@@ -20,5 +20,10 @@
         <parameter value="$PROJECT_DIR$/service-operator/service-operator-flink/target/.scala_dependencies" />
       </parameters>
     </profile>
+    <profile name="Maven 5" modules="service-calculate,service-obscloud">
+      <parameters>
+        <parameter value="-target:jvm-1.8" />
+      </parameters>
+    </profile>
   </component>
 </project>

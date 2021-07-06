@@ -1,6 +1,5 @@
 package com;
 
-import com.config.Configs;
 import java.sql.*;
 import java.util.Properties;
 
