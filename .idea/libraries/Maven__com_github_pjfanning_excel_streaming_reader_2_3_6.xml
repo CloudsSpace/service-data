@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.pjfanning:excel-streaming-reader:2.3.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/spaces/apache-maven-3.5.4/m2/repository/com/github/pjfanning/excel-streaming-reader/2.3.6/excel-streaming-reader-2.3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/spaces/apache-maven-3.5.4/m2/repository/com/github/pjfanning/excel-streaming-reader/2.3.6/excel-streaming-reader-2.3.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/spaces/apache-maven-3.5.4/m2/repository/com/github/pjfanning/excel-streaming-reader/2.3.6/excel-streaming-reader-2.3.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
